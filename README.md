@@ -22,22 +22,24 @@ InfoLoan is a website that serves as a tool to help users obtain more informatio
 - HTML
 - MySQL
 
-** Framework/libraries:
+**Framework/libraries:
 - Flask
 - React-Bootstrap
 
-** API's:
+**API's:
 - Google Map's API
 
-** Authorization:
+**Authorization:
 --Google OAuth 2.0
 ```
 
 ##### Features:
 
-``` Filter Loans by: home, personal, educational, business and auto loans
+``` 
+Filter Loans by: home, personal, educational, business and auto loans
 Compare loans that the user'saves in their profile
 Locate near by bank branch 
+
 ```
 
 ###### Running Locally:
