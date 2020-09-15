@@ -15,22 +15,22 @@ InfoLoan is a website that serves as a tool to help users obtain more informatio
 
 #### Languages:
 
-```Python
-React
-JavaScript
-CSS
-HTML
-MySQL
+``` - Python
+- React
+- JavaScript
+- CSS
+- HTML
+- MySQL
 
-Framework/libraries:
-Flask
-React-Bootstrap
+** Framework/libraries:
+- Flask
+- React-Bootstrap
 
-API's:
-Google Map's API
+** API's:
+- Google Map's API
 
-Authorization:
-Google OAuth 2.0
+** Authorization:
+--Google OAuth 2.0
 ```
 
 ##### Features:
