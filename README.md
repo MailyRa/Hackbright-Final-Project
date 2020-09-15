@@ -35,8 +35,8 @@ from big banks there is an option to view loans from credit unions.
 
 
 ### Loan before saving
-Each loan has the name of the bank, the logo, a link to their website, a brief description, save and  search 
-bank nearby button.
+Each loan has the bank's logo, the name, a link to their website, a brief description, if the loan is a government and if the bank is 
+a Credit Union as well as a "save" and  "search bank nearby" button.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Screen%20Shot%202020-09-15%20at%201.42.19%20PM.png" width="20%">
 
