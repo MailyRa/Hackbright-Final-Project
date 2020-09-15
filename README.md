@@ -43,7 +43,9 @@ A tool to help you in your financial journey
 ```
 
 ###### Running Locally:
-``` In terminal, run "python3 server.py" from root directory 
+``` 
+In terminal, run "python3 server.py" from root directory 
+
 ```
 
 ####### Author:
