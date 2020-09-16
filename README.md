@@ -7,12 +7,7 @@
 ## Introduction:
 
 In one of my previous jobs I worked as a Service Manager for Wells Fargo Bank. Because of this experience, I wanted to create a tool 
-that could help people obtain more information about financial products.  In this website you are able to browse loans by category, which includes,
-home, personal, educational, business, and car loans. From the search page users are also able to filter their loans 
-by government vs private loans, and credit unions vs large banks. From this page the user 
-can save the loan to their profile or they can find the nearest banks which offer a particular
-loan. Users can also compare different loans side by side to make it easier for them to 
-visualize their different options.
+that could help people obtain more information about financial products. 
 
 
 ### Landing Page
