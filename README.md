@@ -12,11 +12,11 @@ that could help people obtain more information about financial products.
 
 ### Features:
  
-- Display loans by categories such as:home, personal, educational, business and auto loans.
+- Display loans by category such as: home, personal, educational, business and auto loans.
 - Filter loans by Government loans and/or Credit Unions.
-- Users can also compare different loans side by side to make it easier for 
-  the user to visualize when making the difference between their different options.
-- User  can “Save”  loans to their profile or they can find the nearest banks which offer a particular loan.
+- Compare different loans side by side to make it easier for to visualize when choosing between different options.
+- Save loans to your profile
+- Find the nearest banks which offer a particular loan.
 
 
 ### Landing Page
@@ -27,43 +27,41 @@ Users register or login on the React JS built landing page
 
 
 ### Activate Loan Dashboard 
-Once signed in, the user can browse the different categories of loans which includes, home, personal, educational, business, and car loans.
+Once signed in, the user can browse the different loans by category which includes, home, personal, educational, business, and car loans.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Five%20Categories.png" width="90%">
 
 
 
 ### Filters
-From the search page user are able to filter their loans by category, government loans vs private loans, and for those who prefer to stay away
+From the search page users are able to filter their loans by category, government loans vs private loans, and for those who prefer to stay away
 from big banks there is an option to view loans from credit unions. 
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Credit%20Union.png" width="90%">
 
 
 
-### Save Feature
-From this page the user can “save” the loan to their profile or they can find the nearest banks which offer a particular loan.
+### Save Loans
+From this page the user can save the loan to their profile or they can find the nearest banks which offer a particular loan.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Save%20Loan.png" width="90%">
 
 
 
-### Locating Bank Nearby
+### Locating Nearby Banks
 For the map feature I used the Google Maps API to search for nearby locations and to display the locations on a map for the user to visualize.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Google%20Maps.png" width="90%">
 
 
 
-### Compare Feature
-The user has the option to select the buttons to compare different loans to each other
+### Compare Loans
+The user has the option to select which loans they would like to compare.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Compare%20Loans.png" width="90%">
 
 
-
-### Comparing Loans 
-Users can also compare different loans side by side to make it easier for the user to visualize when making the difference between their different options.
+From there users can view different loans side by side to make it easier for the user to visualize the differences between these financial products and institutions.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Final%20Chart%20to%20Compare.png" width="90%">
 
@@ -100,9 +98,7 @@ Users can also compare different loans side by side to make it easier for the us
 
 #### Future State
 
-The project InfoLoan has a feature planned out for the next spring:
-
-- I hope to extend this project by implementing the Google translation API into my website to expand
+- I hope to extend this project by implementing the Google translation API to expand
   my user base to others who speak different languages.
 
 
