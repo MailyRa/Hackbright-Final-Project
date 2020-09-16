@@ -77,7 +77,7 @@ Users can also compare different loans side by side to make it easier for the us
 - JavaScript
 - CSS
 - HTML
-- MySQL
+- PostgresSQl
 
 **Framework/libraries:**
 - Flask
