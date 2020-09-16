@@ -98,7 +98,7 @@ Users can also compare different loans side by side to make it easier for the us
 
 
 
-### Future State
+#### Future State
 
 The project InfoLoan has a feature planned out for the next spring:
 
@@ -106,16 +106,14 @@ The project InfoLoan has a feature planned out for the next spring:
   my user base to others who speak different languages.
 
 
-###### Running Locally:
+#### Running Locally:
 
 In terminal, run "python3 server.py" from root directory 
 
 
-###### Author:
+##### Author:
 
-**Maily Palacios-Minaya**- *Software developer currently seeking new opportunities* 
-
-[LinkedIn](https://www.linkedin.com/in/maily-palacios-minaya-011540a5/)
+**Maily Palacios-Minaya**- *Software developer currently seeking new opportunities* - [LinkedIn](https://www.linkedin.com/in/maily-palacios-minaya-011540a5/)
 
 
 
