@@ -10,16 +10,27 @@ In one of my previous jobs I worked as a Service Manager for Wells Fargo Bank. B
 that could help people obtain more information about financial products. 
 
 
+### Features:
+ 
+- Display loans by categories such as:home, personal, educational, business and auto loans.
+- Filter loans by Government loans and/or Credit Unions.
+- Users can also compare different loans side by side to make it easier for 
+  the user to visualize when making the difference between their different options.
+- User  can “Save”  loans to their profile or they can find the nearest banks which offer a particular loan.
+
+
 ### Landing Page
 Users register or login on the React JS built landing page 
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/LogIn.png" width="90%">
 
 
+
 ### Activate Loan Dashboard 
 Once signed in, the user can browse the different categories of loans which includes, home, personal, educational, business, and car loans.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Five%20Categories.png" width="90%">
+
 
 
 ### Filters
@@ -29,10 +40,12 @@ from big banks there is an option to view loans from credit unions.
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Credit%20Union.png" width="90%">
 
 
+
 ### Save Feature
 From this page the user can “save” the loan to their profile or they can find the nearest banks which offer a particular loan.
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Save%20Loan.png" width="90%">
+
 
 
 ### Locating Bank Nearby
@@ -41,10 +54,12 @@ For the map feature I used the Google Maps API to search for nearby locations an
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Google%20Maps.png" width="90%">
 
 
+
 ### Compare Feature
 The user has the option to select the buttons to compare different loans to each other
 
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Compare%20Loans.png" width="90%">
+
 
 
 ### Comparing Loans 
@@ -54,8 +69,10 @@ Users can also compare different loans side by side to make it easier for the us
 
 
 
+
 ### Video Demo:
 (https://youtu.be/trnYljbOU_0)
+
 
 
 #### Languages:
@@ -67,30 +84,25 @@ Users can also compare different loans side by side to make it easier for the us
 - HTML
 - PostgresSQl
 
+
+
 **Framework/libraries:**
 - Flask
 - React-Bootstrap
 
+
+
 **APIs:**
 - Google Map's API
 
-**Authorization:**
-- Google OAuth 2.0
 
 
-##### Features:
- 
-- Different loans such as:home, personal, educational, business and auto loans
-- Filter loans by government loans and/or Credit Unions.
-- Users can also compare different loans side by side to make it easier for 
-  the user to visualize when making the difference between their different options.
-- User  can “save”  loans to their profile or they can find the nearest banks which offer a particular loan.
 
 ### Future State
 
-The project roadmap for InfoLoan has a feature planned out for the next spring:
+The project InfoLoan has a feature planned out for the next spring:
 
-- I hope to extend this project by implementing  the Google translation API into my website to expand
+- I hope to extend this project by implementing the Google translation API into my website to expand
   my user base to others who speak different languages.
 
 
