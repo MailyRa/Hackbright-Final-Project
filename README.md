@@ -34,13 +34,6 @@ from big banks there is an option to view loans from credit unions.
 <img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Credit%20Union.png" width="90%">
 
 
-### Loan before saving
-Each loan has the bank's logo, the name, a link to their website, a brief description, if the loan is a government and if the bank is 
-a Credit Union as well as a "save" and  "search bank nearby" button.
-
-<img src="https://github.com/MailyRa/Hackbright-Final-Project/blob/master/static/jpg/Screen%20Shot%202020-09-15%20at%201.42.19%20PM.png" width="20%">
-
-
 ### Save Feature
 From this page the user can “save” the loan to their profile or they can find the nearest banks which offer a particular loan.
 
